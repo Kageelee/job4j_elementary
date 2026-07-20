@@ -60,7 +60,7 @@
       <recent name="ru.job4j.converter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Info">
+  <component name="RunManager">
     <configuration name="Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.Info" />
       <module name="elementary" />
@@ -133,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Info" />
         <item itemvalue="JUnit.ConverterTest.whenConvert180RblThen2Euro" />
         <item itemvalue="JUnit.ConverterTest" />
-        <item itemvalue="Application.Info" />
         <item itemvalue="Application.StudentInfo" />
         <item itemvalue="Application.Main" />
       </list>
