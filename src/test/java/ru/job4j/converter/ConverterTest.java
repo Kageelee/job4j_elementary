@@ -6,7 +6,7 @@ import static org.assertj.core.api.Assertions.*;
 class ConverterTest {
 
     @Test
-    void whenConvert180RblThen2Euro() {
+    void whenConvertRblThenEuro() {
         double input = 180;
         double expected = 2;
         double output = Converter.rubleToEuro(input);
@@ -15,7 +15,7 @@ class ConverterTest {
     }
 
     @Test
-    void whenConvert225RblThen3Dollar() {
+    void whenConvertRblThenDollar() {
         double input = 225;
         double expected = 2.8125;
         double output = Converter.rubleToDollar(input);
