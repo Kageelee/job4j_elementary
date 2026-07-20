@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Загрузка файлов на github [#505269]">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Фиксация изменений на github [#505270]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Загрузка файлов на github [#505269]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Загрузка файлов на github [#505269]" />
+    <MESSAGE value="Фиксация изменений на github [#505270]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Фиксация изменений на github [#505270]" />
   </component>
 </project>
