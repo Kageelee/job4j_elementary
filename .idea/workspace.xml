@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Разбор первой программы по &quot;взрослому&quot; [#505151]">
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Заголовок в файле java [#505272]">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/converter/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/converter/ConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -33,19 +37,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Info.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multiple.executor": "Run",
     "Application.StudentInfo.executor": "Run",
+    "JUnit.ConverterTest.executor": "Run",
+    "JUnit.ConverterTest.whenConvert180RblThen2Euro.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/projects/job4j_elementary/pom.xml",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Info">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.job4j.converter" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.Info" />
       <module name="elementary" />
@@ -85,8 +105,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.job4j.converter" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.converter.ConverterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConverterTest.whenConvert180RblThen2Euro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elementary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.job4j.converter" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.converter.ConverterTest" />
+      <option name="METHOD_NAME" value="whenConvert180RblThen2Euro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConverterTest.whenConvert180RblThen2Euro" />
+        <item itemvalue="JUnit.ConverterTest" />
         <item itemvalue="Application.Info" />
         <item itemvalue="Application.StudentInfo" />
         <item itemvalue="Application.Main" />
@@ -108,6 +161,7 @@
     <MESSAGE value="Фиксация изменений на github [#505270]" />
     <MESSAGE value="Тест на удаление файла" />
     <MESSAGE value="Разбор первой программы по &quot;взрослому&quot; [#505151]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Разбор первой программы по &quot;взрослому&quot; [#505151]" />
+    <MESSAGE value="Заголовок в файле java [#505272]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заголовок в файле java [#505272]" />
   </component>
 </project>
