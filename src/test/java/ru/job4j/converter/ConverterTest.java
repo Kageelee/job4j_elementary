@@ -22,4 +22,13 @@ class ConverterTest {
         double value = 0.0001;
         assertThat(output).isEqualTo(expected, withPrecision(value));
     }
+
+    @Test
+    void whenConvertRblThenUan() {
+        double input = 11.5;
+        double expected = 1;
+        double output = Converter.uan(input);
+        double value = 0.0001;
+        assertThat(output).isEqualTo(expected, withPrecision(value));
+    }
 }

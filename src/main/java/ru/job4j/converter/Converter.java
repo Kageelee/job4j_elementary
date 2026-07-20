@@ -9,4 +9,8 @@ public class Converter {
     public static double rubleToDollar(double value) {
         return value / 80;
     }
+
+    public static double uan(double value) {
+        return value / 11.5;
+    }
 }
