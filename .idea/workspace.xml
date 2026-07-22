@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="1.1. Что такое import [#505278]">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/TemperatureFit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/calculator/TemperatureFitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/MathCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/MathCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/math/MathFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/math/MathFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -46,6 +46,7 @@
     "Application.StudentInfo.executor": "Run",
     "JUnit.ConverterTest.executor": "Run",
     "JUnit.ConverterTest.whenConvert180RblThen2Euro.executor": "Run",
+    "JUnit.TemperatureFitTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -66,6 +67,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.job4j.calculator" />
       <recent name="ru.job4j.converter" />
     </key>
   </component>
