@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/condition/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/condition/VectorTest.java" afterDir="false" />
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -44,14 +43,20 @@
     "Application.Main.executor": "Run",
     "Application.MathCalculator.executor": "Run",
     "Application.Multiple.executor": "Run",
+    "Application.Point.executor": "Run",
+    "Application.Rectangle.executor": "Run",
     "Application.StudentInfo.executor": "Run",
     "Application.TemperatureFit.executor": "Run",
     "Application.Vector.executor": "Run",
     "JUnit.ConverterTest.executor": "Run",
     "JUnit.ConverterTest.whenConvert180RblThen2Euro.executor": "Run",
     "JUnit.FitTest.executor": "Run",
+    "JUnit.PointTest.executor": "Run",
+    "JUnit.RectangleTest.executor": "Run",
     "JUnit.TemperatureFitTest.executor": "Run",
     "JUnit.VectorTest.executor": "Run",
+    "Maven.elementary [clean].executor": "Run",
+    "Maven.elementary [install].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -189,6 +194,9 @@
     <MESSAGE value="1.1. Что такое import [#505278]" />
     <MESSAGE value="Тестирование Класса Калькулятора Температуры Хранения [#505279]" />
     <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]" />
+    <MESSAGE value="Тестирование Класса Сложения Векторов [#505262]" />
+    <MESSAGE value="Тестирование Класса Расстояния между Точками [#505280]" />
+    <MESSAGE value="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]" />
   </component>
 </project>
