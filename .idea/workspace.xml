@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="1. Модульные тесты [#505277 #565921]" />
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="1. Модульные тесты [#505277 #565921]">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/MathCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/math/MathFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -34,6 +38,7 @@
   "keyToString": {
     "Application.Info.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MathCalculator.executor": "Run",
     "Application.Multiple.executor": "Run",
     "Application.StudentInfo.executor": "Run",
     "JUnit.ConverterTest.executor": "Run",
