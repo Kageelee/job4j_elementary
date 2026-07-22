@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="1.1. Что такое import [#505278]">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/TemperatureFit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/calculator/TemperatureFitTest.java" afterDir="false" />
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/condition/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/condition/VectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Fit.executor": "Run",
     "Application.Info.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathCalculator.executor": "Run",
     "Application.Multiple.executor": "Run",
     "Application.StudentInfo.executor": "Run",
+    "Application.TemperatureFit.executor": "Run",
+    "Application.Vector.executor": "Run",
     "JUnit.ConverterTest.executor": "Run",
     "JUnit.ConverterTest.whenConvert180RblThen2Euro.executor": "Run",
+    "JUnit.FitTest.executor": "Run",
     "JUnit.TemperatureFitTest.executor": "Run",
+    "JUnit.VectorTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -67,6 +72,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.job4j.condition" />
       <recent name="ru.job4j.calculator" />
       <recent name="ru.job4j.converter" />
     </key>
@@ -181,6 +187,8 @@
     <MESSAGE value="Заголовок в файле java [#505272]" />
     <MESSAGE value="1. Модульные тесты [#505277 #565921]" />
     <MESSAGE value="1.1. Что такое import [#505278]" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1. Что такое import [#505278]" />
+    <MESSAGE value="Тестирование Класса Калькулятора Температуры Хранения [#505279]" />
+    <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]" />
   </component>
 </project>
