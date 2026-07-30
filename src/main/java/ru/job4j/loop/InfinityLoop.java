@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.loop;
 
 public class InfinityLoop {
     public static void main(String[] args) {
@@ -8,9 +8,3 @@ public class InfinityLoop {
         }
     }
 }
-
-/**
- * ¬ечный цикл уже был в коде, € предлагаю такой способ исправлени€.
- * ”далить строчку index и поставить + 1, либо удалить сумму и
- * поставить инкеремент.
- */

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a18837b9-42a7-4821-89a7-cff283c5985c" name="Changes" comment="6.7.1. Моно строка в матрице. [#505245]">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/array/MatrixCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/array/MatrixCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/job4j/array/InfinityLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/loop/InfinityLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/job4j/array/MatrixCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/job4j/array/MatrixCheckTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,28 +35,65 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3GkxSgZJ6nqUUgfnvUYsEmUwCIG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlgoArray.executor": "Run",
+    "Application.ArrayDefinition.executor": "Run",
+    "Application.ArrayLoop.executor": "Run",
+    "Application.Board.executor": "Run",
+    "Application.Counter.executor": "Run",
     "Application.Fit.executor": "Run",
+    "Application.Frame.executor": "Run",
+    "Application.InfinityLoop.executor": "Run",
     "Application.Info.executor": "Run",
+    "Application.LengthArrayArrays.executor": "Run",
+    "Application.LoopFor.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathCalculator.executor": "Run",
     "Application.Multiple.executor": "Run",
+    "Application.NumberPyramid.executor": "Run",
     "Application.Point.executor": "Run",
     "Application.Rectangle.executor": "Run",
+    "Application.Sequence.executor": "Run",
+    "Application.Square.executor": "Run",
     "Application.StudentInfo.executor": "Run",
+    "Application.SwitchArray.executor": "Run",
     "Application.TemperatureFit.executor": "Run",
     "Application.Vector.executor": "Run",
+    "JUnit.ArrayCharTest.executor": "Run",
+    "JUnit.CheckPrimeNumberTest.executor": "Run",
+    "JUnit.CheckTest.executor": "Run",
     "JUnit.ConverterTest.executor": "Run",
     "JUnit.ConverterTest.whenConvert180RblThen2Euro.executor": "Run",
+    "JUnit.CounterTest.executor": "Run",
+    "JUnit.EndsWithTest.executor": "Run",
+    "JUnit.EqualLastTest.executor": "Run",
+    "JUnit.FactorialTest.executor": "Run",
+    "JUnit.FindLoopTest.executor": "Run",
     "JUnit.FitTest.executor": "Run",
+    "JUnit.FitnessTest.executor": "Run",
+    "JUnit.MatrixCheckTest.executor": "Run",
+    "JUnit.MatrixSumTest.executor": "Run",
+    "JUnit.MinDiapasonTest.executor": "Run",
+    "JUnit.MinTest.executor": "Run",
     "JUnit.PointTest.executor": "Run",
+    "JUnit.PrimeNumberTest.executor": "Run",
     "JUnit.RectangleTest.executor": "Run",
+    "JUnit.RollBackArrayTest.executor": "Run",
+    "JUnit.SavingsTest.executor": "Run",
+    "JUnit.SkipNegativeTest.executor": "Run",
+    "JUnit.SortSelectedTest.executor": "Run",
+    "JUnit.SquareTest.executor": "Run",
+    "JUnit.SwitchArrayTest.executor": "Run",
     "JUnit.TemperatureFitTest.executor": "Run",
+    "JUnit.TurnTest.executor": "Run",
     "JUnit.VectorTest.executor": "Run",
     "Maven.elementary [clean].executor": "Run",
     "Maven.elementary [install].executor": "Run",
@@ -77,7 +116,12 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.job4j.loop" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.job4j.array" />
+      <recent name="ru.job4j.loop" />
       <recent name="ru.job4j.condition" />
       <recent name="ru.job4j.calculator" />
       <recent name="ru.job4j.converter" />
@@ -97,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.Main" />
+    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.LoopFor" />
       <module name="elementary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.job4j.*" />
+          <option name="PATTERN" value="ru.job4j.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,10 +201,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Info" />
+        <item itemvalue="Application.LoopFor" />
         <item itemvalue="JUnit.ConverterTest.whenConvert180RblThen2Euro" />
         <item itemvalue="JUnit.ConverterTest" />
         <item itemvalue="Application.StudentInfo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,18 +230,41 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Загрузка файлов на github [#505269]" />
-    <MESSAGE value="Фиксация изменений на github [#505270]" />
-    <MESSAGE value="Тест на удаление файла" />
-    <MESSAGE value="Разбор первой программы по &quot;взрослому&quot; [#505151]" />
-    <MESSAGE value="Заголовок в файле java [#505272]" />
-    <MESSAGE value="1. Модульные тесты [#505277 #565921]" />
-    <MESSAGE value="1.1. Что такое import [#505278]" />
-    <MESSAGE value="Тестирование Класса Калькулятора Температуры Хранения [#505279]" />
-    <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot; [#505260]" />
-    <MESSAGE value="Тестирование Класса Сложения Векторов [#505262]" />
-    <MESSAGE value="Тестирование Класса Расстояния между Точками [#505280]" />
-    <MESSAGE value="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Тестирование Класса Вычисления Диагонали Прямоугольника [#505281]" />
+    <MESSAGE value="Заполнение массива [#505222]" />
+    <MESSAGE value="Массивы и цикл for [#505223]" />
+    <MESSAGE value="Массивы и цикл for-each [#505224]" />
+    <MESSAGE value="Построить шахматную доску в псевдографике [#505212]" />
+    <MESSAGE value="Заполнить массив степенями чисел [#505225]" />
+    <MESSAGE value="Массивы в тестах [#505226]" />
+    <MESSAGE value="Классический поиск перебором [#505227 #566183]" />
+    <MESSAGE value="Упорядочить массив [#505228 #566194]" />
+    <MESSAGE value="Выход за границу массива [#505229]" />
+    <MESSAGE value="Переставить элементы массива [#505230]" />
+    <MESSAGE value="Перевернуть массив [#505231 #566199]" />
+    <MESSAGE value="Массив заполнен true или false [#505232 #566201]" />
+    <MESSAGE value="Слово начинается с ... [#505233]" />
+    <MESSAGE value="Сравнить последние элементы двух массивов [#505234]" />
+    <MESSAGE value="Обход массива с последнего элемента [#505235]" />
+    <MESSAGE value="Слово заканчивается на ... [#505236]" />
+    <MESSAGE value="Поиск индекса в диапазоне [#505237]" />
+    <MESSAGE value="Поиск минимального числа в массиве [#505238 #566206]" />
+    <MESSAGE value="Поиск минимума в диапазоне [#505239]" />
+    <MESSAGE value="6.5.3. Сортировка выборкой. [#505240]" />
+    <MESSAGE value="6.6.0. Двумерный массив [#505241]" />
+    <MESSAGE value="6.6.1. Размер элемента двумерного массива [#505242]" />
+    <MESSAGE value="6.6.2. Двумерный массив. Циклы [#505243]" />
+    <MESSAGE value="6.6.3. Двумерный массив. If. [#505244]" />
+    <MESSAGE value="6.7.1. Моно строка в матрице. [#505245]" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.7.1. Моно строка в матрице. [#505245]" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
